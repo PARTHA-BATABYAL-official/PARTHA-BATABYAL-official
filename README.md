@@ -7,7 +7,7 @@
 
 <!-- 🧠 Typing Animation Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Cod&size=28e&duration=3000&pause=1000&color=10B981&center=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Partha+Batabyal;Software+Engineering+Student;Full-Stack+Web+Developer;Love+to+code+the+world!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Cod&size=22e&duration=3000&pause=1000&color=10B981&center=true&width=400&lines=Hi+%F0%9F%91%8B%2C+I'm+Partha+Batabyal;Software+Engineering+Student;Full-Stack+Web+Developer;Love+to+code+the+world!">
 </h1>
 
 ---
