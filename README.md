@@ -12,7 +12,9 @@
 
 ---
 
-# 🚀 Partha Batabyal
+#  <p style="color: red; font-family: 'Fira Code', monospace; font-size: 1.2rem; font-weight: 600;">
+  🚀 Partha Batabyal
+</p>
 
 ### 💻 Software Engineer Student | Web & App Developer | Tech Explorer
 
