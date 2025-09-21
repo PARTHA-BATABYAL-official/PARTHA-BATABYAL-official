@@ -92,10 +92,10 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
-<!--
+
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&icon_color=EA4335" />
@@ -138,13 +138,13 @@
 
 ---
 -->
-## 📈 Most Used Languages
+<!-- ## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&langs_count=6" />
-</p>
+</p> -->
 
----
+
 
 ## ⚪ Fun Facts
 
